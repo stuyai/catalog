@@ -31,7 +31,7 @@ service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
 try:
-    driver.get('https://stuyactivities.org/catalog')
+    driver.get('https://stuyactivities.org/')
 
     # Wait for the #root element to load completely
     if wait_for_stable_size(driver, "//*[@id='root']"):
