@@ -5,11 +5,11 @@ Meeting Schedule:
 Our meeting schedule can vary depending on the schedules of our teachers. Usually, we will have 2 meetings every week for each field we teach.
 
 Leaders:
-Raihan Nadeem
-Naowal Rahman
-Tawseef Reza
-Vicente Xia Tang
-Nozanini Khurshed
+Raihan Nadeem - President
+Naowal Rahman - Instructional Director (Python/HTML/CSS)
+Tawseef Reza - President
+Vicente Xia Tang - Instructional Director (Game Dev)
+Nozanini Khurshed - Assistant Marketing Director
 
 Related Clubs:
 EcoBiz

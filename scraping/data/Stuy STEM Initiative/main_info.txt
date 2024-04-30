@@ -5,13 +5,13 @@ Meeting Schedule:
 General meetings will be 1-2 times a month, but department specific meetings can happen more or less depending on the circumstances. Meeting days can also shift depending on availability of members and department directors.
 
 Leaders:
-Aeneas Merchant
-David Chen
-Seth Fenton
-Krystal Khine
-Pagny Doll
-Mark Ionis
-Daniel Wu
+Aeneas Merchant - CEO
+David Chen - Director of Computer Science
+Seth Fenton - Chairman of the Board
+Krystal Khine - Director of Communications
+Pagny Doll - Director of Physics
+Mark Ionis - Director of Biology
+Daniel Wu - Director of Chemistry
 
 Related Clubs:
 EcoBiz

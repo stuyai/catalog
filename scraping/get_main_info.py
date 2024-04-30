@@ -22,11 +22,16 @@ def extract_main_info(directory):
 
     # Extract leaders
     leaders_tag = soup.find('h5', text='Leaders')
+    leaders_info = []
     if leaders_tag:
         leaders_list = leaders_tag.find_next('ul')
-        leaders = [leader.find('p').get_text(strip=True) for leader in leaders_list.find_all('div', role='button')]
+        leader_items = leaders_list.find_all('div', role='button')
+        for leader in leader_items:
+            name = leader.find('p', class_='MuiTypography-root MuiTypography-body1 css-ekbb42').get_text(strip=True)
+            role = leader.find('h6', class_='MuiTypography-root MuiTypography-subtitle2 css-1ewgr33').get_text(strip=True)
+            leaders_info.append(f"{name} - {role}")
     else:
-        leaders = ["No leaders listed"]
+        leaders_info = ["No leaders listed"]
 
     # Extract related clubs
     related_clubs_tag = soup.find('h5', text='Related Clubs')
@@ -40,10 +45,11 @@ def extract_main_info(directory):
     with open(output_file_path, 'w', encoding='utf-8') as file:
         file.write("Mission:\n" + mission + "\n\n")
         file.write("Meeting Schedule:\n" + meeting_schedule + "\n\n")
-        file.write("Leaders:\n" + "\n".join(leaders) + "\n\n")
+        file.write("Leaders:\n" + "\n".join(leaders_info) + "\n\n")
         file.write("Related Clubs:\n" + "\n".join(related_clubs) + "\n")
 
     print(f"Info extracted to {output_file_path}")
+
 
 # Specify the path to the data directory
 data_directory = './data'
