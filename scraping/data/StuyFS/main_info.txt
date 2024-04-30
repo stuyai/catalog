@@ -1,0 +1,15 @@
+Mission:
+StuyFS is a club centered around teaching people the basics of full-stack web development.
+
+Meeting Schedule:
+We plan on building our meeting schedule around the availability of our members; however, our first few meetings will likely be held on Thursdays, barring any unforeseen circumstances.
+
+Leaders:
+John Chandler Iii
+Zacary Moore
+Allen Fertidos
+
+Related Clubs:
+Stuyvesant Women Engineers
+Stuy Student Health Research
+Stuyvesant Computer Science Outreach

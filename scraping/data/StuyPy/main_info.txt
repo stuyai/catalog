@@ -1,0 +1,16 @@
+Mission:
+StuyPy is a beginner-friendly club for learning how to solve problems and innovate using Python.
+
+Meeting Schedule:
+If there are events that impede with many of our schedules, we may hold a remote meeting or cancel the meeting, but we will usually meet on Thursdays
+
+Leaders:
+Zidane Karim
+Anthony Chen
+Tony Chen
+Shaurya Sen
+Samuel Isakov
+
+Related Clubs:
+EcoBiz
+Stuy Crypto

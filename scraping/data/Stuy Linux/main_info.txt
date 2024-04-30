@@ -1,0 +1,15 @@
+Mission:
+Stuy Linux is a beginner-friendly club that lets members explore Free/Libre Open Source Software (FOSS) that respects the user and their rights.
+
+Meeting Schedule:
+On average, we'll meet twice a month, on the dates where the majority of the club can attend. Historically, this has been semiweekly, on Fridays, but with exceptions for member-hosted meetings and other events.
+
+Leaders:
+David Chen
+Leonid Metlitsky
+Seth Fenton
+Izagma Alonso
+
+Related Clubs:
+EcoBiz
+Stuy Crypto

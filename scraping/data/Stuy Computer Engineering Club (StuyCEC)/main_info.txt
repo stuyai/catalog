@@ -1,0 +1,13 @@
+Mission:
+StuyCEC is a club dedicated to building and programming transistor-to-transistor logic (TTL) computers.
+
+Meeting Schedule:
+During our design phase, most of the work will be done online with occasional meetings happening once or twice a month. However, during our manufacturing and testing meetings will take place 1-3 times a week.
+
+Leaders:
+Kellen Yu
+Jaeho Jimmy Cho
+
+Related Clubs:
+Stuyvesant Youth Medical Association
+Stuyvesant Women Engineers

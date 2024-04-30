@@ -1,0 +1,15 @@
+Mission:
+StuyHacks hosts hackathons to foster the next generation of innovators and increase diversity in the computer science community.
+
+Meeting Schedule:
+StuyHacks will host at least one meeting per month on Wednesdays.
+
+Leaders:
+Jack Jiang
+Ankita Saha
+
+Related Clubs:
+Stuy Student Health Research
+Stuyvesant Computer Science Outreach
+The Biology Society
+Stuyvesant Biomedical Engineering

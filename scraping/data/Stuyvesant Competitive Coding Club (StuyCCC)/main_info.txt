@@ -1,0 +1,16 @@
+Mission:
+StuyCCC's mission is to foster a community of passionate programmers and teach problem solving skills in preparation for coding competitions.
+
+Meeting Schedule:
+Our meeting schedule will be one advanced meeting on Mondays and one novice meeting on Thursdays every week. The room will most likely be 325, if not, the room will be specified in the meeting announcements and on Discord. Novice will go over more fundamental topics and problem solving techniques in competitive programming, while advanced will cover more complex algorithms and harder techniques. If you are comfortable with your programming language and can easily implement code, it is advised to attend the advanced section.
+
+Leaders:
+Naowal Rahman
+Matthew Chen
+Chongtian Ma
+Stanley Tung
+Irene Mouzakitis
+
+Related Clubs:
+EcoBiz
+Stuy Crypto

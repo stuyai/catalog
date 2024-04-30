@@ -1,0 +1,17 @@
+Mission:
+Open Source Studio aims to foster a community of teaching programming languages and utilizing those skills to create large open-source projects.
+
+Meeting Schedule:
+Our meeting schedule can vary depending on the schedules of our teachers. Usually, we will have 2 meetings every week for each field we teach.
+
+Leaders:
+Raihan Nadeem
+Naowal Rahman
+Tawseef Reza
+Vicente Xia Tang
+Nozanini Khurshed
+
+Related Clubs:
+EcoBiz
+Stuy Crypto
+StuyBike
