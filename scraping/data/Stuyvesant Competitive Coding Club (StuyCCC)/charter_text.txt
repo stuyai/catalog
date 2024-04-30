@@ -1,0 +1,30 @@
+Mission Statement:
+StuyCCC's mission is to foster a community of passionate programmers and teach problem solving skills in preparation for coding competitions.
+
+What days does this organization meet?:
+Monday, Tuesday, Wednesday, Thursday
+
+What is the meeting schedule?:
+Our meeting schedule will be one advanced meeting on Mondays and one novice meeting on Thursdays every week. The room will most likely be 325, if not, the room will be specified in the meeting announcements and on Discord. Novice will go over more fundamental topics and problem solving techniques in competitive programming, while advanced will cover more complex algorithms and harder techniques. If you are comfortable with your programming language and can easily implement code, it is advised to attend the advanced section.
+
+What is the purpose of this activity?:
+The purpose of StuyCCC is to serve as an environment where students can collaborate with each other to solve coding problems, learn exciting new things, and prepare for competitions. It will be a place to explore computer science beyond the APCS curriculum. Our main goal is to focus on teaching concepts and algorithmic thinking skills that will set students up for future endeavors in computer science. Our target audience will be students who are interested in computer science or problem solving in general. 
+There are no prerequisites to join, as all necessary material will be covered during meetings. Members are encouraged to come to as many meetings as possible. There are two sections, novice and advanced. The novice section is for students who are new to or are comfortable with coding who will learn data structures and algorithms from solving contest problems. In the advanced section, we teach advanced algorithms in preparation for the USA Computing Olympiad (USACO). Additionally, members in each section have the freedom to present CS topics they are interested in. A few times a year, we organize trips to invitational CS competitions, such as the PClassic at the University of Pennsylvania and the Cornell University High School Programming Contest. In general, trips are funded by the Student Union, and as such we require no dues or fees for students to come on trips.
+
+How does this activity benefit Stuyvesant?:
+Stuyvesant is a school famous for its STEM based curriculum and activities. We have a wide variety of clubs in every subject area imaginable that are geared towards competition. We have a Speech and Debate Team, a Quizbowl club, and a Robotics Team. In the field of Computer Science, we have many advanced classes such as Software Development, Systems Level Programming, Computer Graphics, and Cybersecurity that you would be hard-pressed to find at any other high school. 
+However, we do not have a club that is aimed towards coding competitions. StuyCCC aims to fill this gap. We foster a community of passionate programmers and help them excel in the most prestigious CS competitions. We take enthusiastic students who are already interested in programming and expand their knowledge. We expose them to programming competitions and give them the skills (in the form of CS concepts, data structures, and algorithms) and opportunities (referring them to different online competitions) they need to succeed in them. It’s a club that devotes itself to the theories of CS and explores said ideas through coding. In addition, we create a space for students interested in programming to come together and explore new concepts together. Our Discord community has over 450 members and continues to grow, attracting students from Stuyvesant and other schools in New York.
+
+How does this activity appoint leaders?:
+The appointment protocols for leadership positions are as follows. People will be asked towards the middle of the school year if they would like to be considered for leadership positions. Based on their knowledge base of the content as well as their level of activity in the club, the current leaders will decide on the people being chosen for the leadership positions. 
+The impeachment protocols for leadership positions are that anyone that is inactive in the club for a certain period of time or has not been contributing to the club in any way without a good reason will be impeached by vote (requiring a two-thirds majority of all leaders, or all of the leaders except the one being impeached, whichever is lesser) by the other leaders in the club. In short, it will be a democratic process. 
+Members are expected to: 
+1)	Be respectful towards everyone
+2)	Try and learn the topics that are being taught and to ask questions if they are stuck at any point
+3)	Join in discussion of different topics when they are being talked about or to at least to go over the recordings of content on their own time
+
+What makes this activity unique?:
+No other clubs at Stuyvesant focus on competitive programming. We provide students with a solid foundation in theoretical computer science that will help them excel in coding competitions. Students will also carry that knowledge into their APCS classes, CS electives, college classes, and even coding interviews. Most importantly, StuyCCC develops problem solving skills that are easily transferable into other subjects. 
+StuyCCC’s focus on short problems instead of longer projects makes programming a lot less intimidating for beginners. Students who participate in other STEM competitions, such as those from the Math Team, will also be familiar with the format and approach to problem solving. 
+StuyCCC’s Discord community is a place for people to talk about coding in general, not just limited to competitive programming. We have dedicated channels for general CS topics and an anime and Minecraft fanbase, so anime and Minecraft enjoyers are also welcome!
+

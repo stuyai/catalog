@@ -1,0 +1,29 @@
+Mission Statement:
+StuyHacks hosts hackathons to foster the next generation of innovators and increase diversity in the computer science community.
+
+What days does this organization meet?:
+Wednesday
+
+What is the meeting schedule?:
+StuyHacks will host at least one meeting per month on Wednesdays.
+
+What is the purpose of this activity?:
+StuyHacks organizes biannual hackathons targeted towards high schoolers and middle schoolers interested in the computer science field. We invite over one hundred students to attend our 12-hour hackathon, and one hundred fifty to attend our 24-hour one. Creating such large events requires the logistical and organizational skills of a team that is willing to work together to create a great event. We are broken down into four departments so we can efficiently plan and organize these events.
+
+Furthermore, the purpose of StuyHacks is to provide not only Stuy students but students from other schools, with an opportunity to collaborate with others to create innovative tech projects. There are numerous students throughout the city with different ideas and interests. When these students come together to work on a project, they can create something great. StuyHacks is here to facilitate this journey by providing mentorship, a place to work together, and a community of like-minded individuals.
+
+How does this activity benefit Stuyvesant?:
+Stuyvesant has always had a large and thriving computer science community. StuyHacks is an organization that allows students to become further immersed in the world of tech and innovation. The school hackathon is organized by Stuyvesant students, for Stuyvesant students. The group prioritizes those in its community and makes sure to accommodate everyone. For those in this school who want to learn more about computer science, StuyHacks acts as an entryway for other school hackathons. In fact, after attending the event for the first time, many students go on to overnight college and university hackathons.
+
+StuyHacks also emphasizes the idea of collaboration and teamwork. Many people come to its events without a team and end up forming lasting bonds. StuyHacks allows students to meet other students with similar interests as them. Many Stuyvesant students come up with very creative ideas as a group. The group seeks to promote innovation at StuyHacks and provide a hub where people can apply the computer science skills they learn in class to real-life projects. 
+
+StuyHacks also welcomes complete beginners. Those who are still taking Intro to Computer Science can always come to the events. It offers workshops and helps answer any questions they have about computer science.
+
+How does this activity appoint leaders?:
+There are two executive directors of StuyHacks who serve at the highest level of leadership and are responsible for managing the sub-level directors, as well as the event as a whole. These four departments are Logistics, Marketing, Sponsorship, and Design. Aside from the Executive Directors, four other Directors facilitate three of the four departments. All of the current Directors have been chosen by previous directors. In the middle of the year, the StuyHacks leadership team will meet to select the next year’s leadership and release their decision to the entire team. The new appointees will serve as Directors-in-training for the remainder of the year, where they will learn to manage their role in preparation for their takeover next year. Members who want a board position fill out a form explaining why they want the position and what they can offer to the departments they want to lead. The group appoints members to director positions based on their commitment and efficiency in completing tasks. It is also crucial that the leadership can lead a department. Therefore, when appointing directors, the group will also look for people who can work well with others and can instruct them. Regular members will follow the department-specific tasks given to them by the Directors. They will also attend StuyHacks events and help facilitate. Impeachment is a unanimous decision and can be put forth by any member of the team, to be approved by a Director.
+
+What makes this activity unique?:
+This group is Stuyvesant’s only hackathon group. It is student-run and completes tasks such as finding sponsors to market the event, finding speakers for workshops, and locating and contacting venues. It hopes to teach members how to efficiently and effectively maneuver in the professional world, and at the same time, host events that allow students of all backgrounds to find or display their passion for Computer Science. 
+
+StuyHacks is one of New York City’s few student-run, high school hackathons. It seeks to teach members how to efficiently and effectively maneuver in the professional world, and at the same time, host events that allow students of all backgrounds to find their passion in Computer Science and display it. In total, StuyHacks has served more than 800 students — from all different ages and backgrounds — over its past four hackathons. The group has partnered with organizations such as Facebook, Devpost, Disney, Youth Service America, ABC Networks, and Major League Hacking in the past. At the hackathons, students will learn skills from web development to terminal usage.
+

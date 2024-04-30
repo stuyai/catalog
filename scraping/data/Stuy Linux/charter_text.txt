@@ -1,0 +1,31 @@
+Mission Statement:
+Stuy Linux is a beginner-friendly club that lets members explore Free/Libre Open Source Software (FOSS) that respects the user and their rights.
+
+What days does this organization meet?:
+Friday, Monday, Tuesday, Wednesday, Thursday
+
+What is the meeting schedule?:
+On average, we'll meet twice a month, on the dates where the majority of the club can attend. Historically, this has been semiweekly, on Fridays, but with exceptions for member-hosted meetings and other events.
+
+What is the purpose of this activity?:
+Stuy Linux aims to be an educational community for those interested in software freedom, security, and privacy.
+
+Members will be encouraged to join a a casual chat community on a freedom and privacy respecting platform (Gitter, a Matrix server) where its members can congregate, discuss new developments, and aid each other with technical endeavors or issues. The core focus of the club will be on this asynchronous chatroom (similar to the Stuyvesant Transit and Urbanization Association), hence its low-commitment status.
+
+In addition to this space, presentation-based meetings will be held in-school to introduce Linux and associated programs to the club's member base. Experienced members will be encouraged to contribute and/or teach lessons, allowing for members to learn from the talents and know-how of the best in the community. The club will also organize discussions on F(L)OSS-adjacent topics, such as software releases, vulnerability/hack incidents, and licensing ethics. The lessons will try to be as accessible as possible, with topics being taught from the ground up, and members being guided through the processes every step along the way.
+
+How does this activity benefit Stuyvesant?:
+F(L)OSS applications are commonly used by major technology firms, like Facebook, Amazon, Apple, Netflix, Google (colloquially known as FAANG), Microsoft, IBM, and even the school's gradebook, Talos. By introducing members to these software suites now, members can develop familiarity and expertise with software they will encounter in college and beyond, especially in Computer Science and other STEM professions. The use and development of these programs encourages the use of critical thinking skills for problem solving, providing a practical and fun activity for members to partake in. Further, by playing an active role in the F(L)OSS community, members are able to develop their programming experience by contributing their services to the community, while also meeting professionals working on critical projects.
+
+Our internet-connected society provides a plethora of opportunities for abuse, such as via mass surveillance (spyware/telemetry), mass advertising (monetization of personal data), and other destructive malwares (wipers, ransomwares, etc.), which can severely affect a society (such as the 2021 JBS meat-packing cyberattack) and disrupt the free expression and discourse within it. Proprietary software sequesters these capabilities and more thanks to their concealed nature, but people can counteract or avoid such evils with F(L)OSS alternatives that act more efficiently and transparently, granting them the ability to build a better and more free future for all.
+
+F(L)OSS applications are also more accessible, for they generally do not impose any monetary costs to obtain them. This allows for most people with a personal computer to try out Linux and related F(L)OSS technologies on their own, for free.
+
+How does this activity appoint leaders?:
+The founders will take the first leadership roles within the club, working to administer, organize, and develop the lessons for club activities. Throughout the school year, as new positions are deemed necessary, those who volunteer and possess the necessary skills can sign up for them. Those who have performed in an unsatisfactory manner will be replaced, or have their positions supplemented by another member. This includes club leadership, as if a club administrator is not performing in a satisfactory manner (not active and/or contactable for at least 1 month, repeated cases (3+ warnings/complaints from other members) of being problematic, they may be demoted and their power will be given to another newly selected leader and the other leader. Active members who contribute to the club may be selected by the co-presidents to succeed them. If a co-president is unable to decide one individual to succeed them, they may nominate their recommended members for election, to be conducted via a poll ran on the club's primary communication platform.
+
+Club members are expected to be reasonably active and responsive on the club's communication platform(s), and/or frequently attend meetings if they wish to be recognized and considered for positions within the club. Those who do not provide any meaningful contribution to the club may not be put into consideration, and if their presence proves detrimental to the club environment, they may be asked to leave.
+
+What makes this activity unique?:
+Stuyvesant High School has a rich ecosystem of computer science/programming clubs, but no active clubs expressly emphasize and embrace Free/Libre Open Source Software. Unlike many of the school's other clubs, Stuy Linux aims for a language-agnostic approach to its content instead of focusing on a singular programming language. Stuy Linux also discusses Unix-like systems beyond GNU/Linux, such as the BSD and its derivatives, like the XNU kernel and its commonly-known implementations in the MacOS and iOS, along with the Linux kernel's significant uses in Android, ChromeOS, and others. Stuy Linux aims to foster an inclusive environment where anyone may find real-world, rather than theoretical, experience with the diverse world of F(L)OSS technology.
+

@@ -1,0 +1,35 @@
+Mission Statement:
+Stuy Ren'Py aims to bring together STEM and creativity through creating visual novels.
+
+What days does this organization meet?:
+Tuesday, Thursday
+
+What is the meeting schedule?:
+Our meeting schedule will vary, but we aim to meet twice each month.
+
+What is the purpose of this activity?:
+Members will work in small groups to design visual novel games and upload them onto sites likeitch.iofor people to play. Visual novels are kind of like Choose Your Own Adventure books, but with much more art and coding. 
+
+Throughout the year, Stuy Ren'Py will host learning meetings, each focused on a different aspect of the game making journey. For example, one meeting may be focused on learning how to draw character sprites while another covers the basics of coding a game user interface. Members are expected to keep regular correspondence with fellow group members and maintain a steady schedule so that the game will be completed in time; leaders of Stuy Ren'Py will check in monthly to ensure that communication progresses smoothly. 
+
+At the end of the year, all of Stuy Ren'Py will gather in a big group "peanut gallery" to play each group's finished products. If members wish to, they can upload their games ontoitch.io(or other gaming websites) for people outside of the Stuyvesant community to enjoy and leave constructive critique.
+
+How does this activity benefit Stuyvesant?:
+Stuy Ren'Py caters to people with all types of interests. For those who like STEM, this club will further their coding ability. Ren'Py, the primary language this club will be using, is also a "sub" language under Python, a common coding language that is used in the real world. No matter the occupation a student ultimately decides to go in, Python and algorithmic thinking are valuable skills to know. People who like writing will be able to explore their creativity to the max. Many vsual novels operate on a system of "paths" that a player can choose from; depending on their choices, a different ending will be achieved. Writers will really have to stretch their thinking muscles to think of plausible and interesting routes. Artists will be able to go outside of their comfort zone by drawing both people, backgrounds, and objects. They'll also be able to learn character design, a very specific yet important skill for those who aspire to become professional artists in the future. 
+
+The small group system that this club will operate on also gives a great opportunity for people to make close friendships that last beyond high school and receive constructive critique on how to improve their projects.
+
+Overall, this club will benefit the Stuyvesant community by giving students experience with tools used in the professional world and a safe place to make friends and ask for help.
+
+How does this activity appoint leaders?:
+There is at least one main president. The person fulfilling this role is expected to be proficient at Ren'Py and be able to provide coding advice to their fellow members. They are also expected to have some experience drawing and writing for visual novels, as well. They will be managing the club's funds and communicating with the vice presidents and other members to decide on meeting times that would work for most people. On top of that, they will also be leading a small group in creating a visual novel.
+
+There were will be at least 2 co vice-presidents. They do not need to be as well-rounded as the president in the three aspects (drawing, coding, and writing), but will be expected to know a little bit of each. They will be small group leaders as well.
+
+New leadership will be appointed by former leadership on a two-stage application system. First is the writing portion, where the applicant's overall activeness in the club and their knowledge on Ren'Py will be assessed. The second part is a short 5 to 15 minute interview to ascertain their leadership and communication skills. Questions like "how would you respond to a situation where a student in a small group is inactive and not doing their part to create the game?" will be asked. To ensure that leadership is transferred and that the club sustains, at least one person in leadership at any given time will be a junior, sophomore, or freshman.
+
+If anyone in leadership skips more than 3 meetings in a row, they will automatically undergo the "impeachment" process. Members of the club will vote on whether or not they believe the member should stay in leadership; if 2/3 or more disagree, then they will removed and replaced with someone else (refer to the application process on how the replacement will work).
+
+What makes this activity unique?:
+Stuy Ren'Py encourages members to see STEM and liberal arts as two sides of the same coin as opposed to a coin and a dollar bill. They encourage and help each other flourish; one cannot exist without the other. This is reflected in the visual novels the club will create, as visual novels simply cannot exist without teamwork between the writers, artists, and coders. Members are also encouraged to overlap between different fields; feel free to try out drawing AND coding, coding AND writing, etc!
+

@@ -1,0 +1,36 @@
+Mission Statement:
+Vote to read chapters from the "Proofs from THE BOOK" and discuss them
+
+What days does this organization meet?:
+Monday, Tuesday, Wednesday, Thursday, Friday
+
+What is the meeting schedule?:
+Our meeting schedule varies throughout the year, but we aim to meet around 2 times a month. However, not all meetings are mandatory. We do not have a specific day of the week we plan on meeting, so we will take a poll on it to see which day most members are free (days can change for every meeting).
+
+What is the purpose of this activity?:
+Members should either enjoy math or want to learn more about the interesting aspects of math. There is a whole world of math outside the math competitions everyone hears about; there is even math behind the art of card shuffling! For this club, we will be reading chapters from "Proofs from the BOOKS" which covers many famous proofs of the following theorems and topics such as: the infinitude of primes, Quadratic reciprocity, Bertrand's postulate, Fermat's theorem on sums of two squares, Wedderburn's little theorem asserting that every finite division ring is a field, Basel problem, e is irrational (also showing the irrationality of certain related numbers), Hilbert's third problem, Sylvester–Gallai theorem and De Bruijn–Erdős theorem, Cauchy's theorem, Borsuk's conjecture, Schröder–Bernstein theorem, Wetzel's problem on families of analytic functions with few distinct values, The fundamental theorem of algebra, Monsky's theorem (4th edition), Van der Waerden's conjecture, Littlewood–Offord lemma, Buffon's needle problem, Sperner's theorem, Erdős–Ko–Rado theorem and Hall's theorem, Lindström–Gessel–Viennot lemma and the Cauchy–Binet formula, Cayley's Formula, Kakeya sets in vector spaces over finite fields, Bregman–Minc inequality, Dinitz problem, Art gallery theorem, Turán's theorem, Shannon capacity and Lovász number, Chromatic number of Kneser graphs, Friendship theorem, and Probabilistic method. All chapters that will be discussed would be voted on, and it is not required to read chapter before coming to meetings.
+
+How does this activity benefit Stuyvesant?:
+This math offers an exciting and inclusive opportunity for Stuyvesant community members to explore the captivating world of mathematics beyond the realm of traditional competitions. By focusing on both the enjoyment and the learning of math, the club seeks to engage individuals with diverse interests and varying levels of mathematical expertise. The carefully curated selection of topics from "Proofs from the BOOK" promises to intrigue and challenge participants, encompassing an array of theorems and concepts that span from number theory to graph theory.
+By delving into these profound and intriguing mathematical proofs, participants will not only deepen their understanding of mathematics but also cultivate critical thinking, problem-solving skills, and the ability to think abstractly. The club's approach to voting on chapters encourages a collaborative and democratic environment, fostering a sense of ownership and enthusiasm among members.
+Moreover, the club promotes a broader appreciation for the multifaceted nature of mathematics, revealing its connections to various fields, including art and probability. As members explore the math behind card shuffling and the irrationality of numbers, they will recognize the ubiquity of mathematical concepts in everyday life, encouraging a more holistic understanding of the subject.
+This initiative provides an inclusive space for individuals who already have a passion for math as well as those who are curious and open to learning more. It builds a strong sense of community by connecting like-minded individuals who share an interest in exploring the elegant and intriguing world of mathematical proofs. Through engaging discussions, collaborative learning, and the opportunity to approach challenging concepts at one's own pace, this math club will undoubtedly contribute to fostering a deeper appreciation for mathematics and its relevance within the Stuyvesant community.
+
+How does this activity appoint leaders?:
+The math club's leadership roles include a captain, vice-captain, 2-3 IT managers, and 2-3 secretaries.The math club's leadership framework encompasses key roles: President, IT Managers (2-3), Secretaries (2-3), and a Vice Captain (1). The captain spearheads the club's overall direction, while the Vice-captain supports the Captain in managing day-to-day operations and coordination. IT Managers curate the club's digital presence, maintaining the website and facilitating chapter voting polls, so basic HTML skills are needed for this role. Secretaries contribute by diligently documenting meeting discussions, providing essential content for the website (no LATEX skills needed). 
+
+Leaders are appointed through a transparent and participatory process, reflecting the club's democratic ethos. Members are expected to actively engage in discussions, adhere to established protocols, and maintain a respectful and collaborative environment.
+
+Leadership succession involves outgoing leaders actively mentoring their successors, ensuring a seamless transition and continuity. In cases necessitating leadership removal, the club follows a consultative approach, with transparent discussions and a voting mechanism to address misalignment with the club's values or disruptive behavior.
+
+This comprehensive structure fosters effective leadership, cultivates positive interactions, and guarantees a sense of continuity. By nurturing mathematical exploration and collaboration, the math club enriches the Stuyvesant community's experience and understanding of mathematics.
+
+What makes this activity unique?:
+Our organization stands out due to its distinctive approach to mathematical exploration and engagement. Unlike traditional math clubs that often focus solely on competition preparation, our club fosters a genuine appreciation for math beyond the competitive realm. We offer a diverse range of topics, delving into "Proofs from the BOOK," which showcases the beauty and depth of mathematics through renowned theorems and proofs.
+
+What truly sets us apart is our emphasis on inclusivity. We value both existing math enthusiasts and those curious to learn more, creating a dynamic community where individuals of all backgrounds can come together to explore and discuss intriguing mathematical concepts. Our leadership roles, ranging from IT Managers to Secretaries, ensure that everyone's skills and interests find a place within the club.
+
+Moreover, our interactive approach promotes collaborative learning. Members actively engage in chapter selections, discussions, and decision-making processes, fostering a sense of ownership and participation. The utilization of a website for meeting notes and chapter voting polls enhances accessibility and transparency, enabling members to stay connected and informed.
+
+Our commitment to a smooth transition of leadership ensures the sustainability of our unique environment. Outgoing leaders actively mentor their successors, ensuring the continuity of the club's values and objectives. In cases where challenges arise, our transparent protocol for leadership removal reflects our dedication to maintaining a positive and respectful atmosphere.
+
