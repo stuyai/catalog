@@ -22,6 +22,6 @@ threadpoolctl==3.5.0
 trio==0.25.0
 trio-websocket==0.11.1
 typing_extensions==4.11.0
-urllib3==2.2.1
+urllib3==2.2.2
 webdriver-manager==4.0.1
 wsproto==1.2.0
